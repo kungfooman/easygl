@@ -1,0 +1,9 @@
+Debug
+*.dsp
+*.dsw
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
